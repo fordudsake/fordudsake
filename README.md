@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan Rhyne 👋
+# Hi, I'm Belimad 👋
 
 📍 **Global / Farm Life** | 🚜 **Investor & Operator (Retired)** | 🤖 **Tinkering with Robotics & Open Source**
 
