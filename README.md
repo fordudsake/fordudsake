@@ -1,7 +1,14 @@
+# <p align="center">🌊 The Deep Dive</p>
+
 # <p align="center">🦑 fordudesake | The Deep-Sea Architect</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc5bnNtYWZjeDl1ZGFjdGN4OHNmaHhvZ2xvZ245ZmFmMHNrcXd3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fud15wE5U9JUA/giphy.gif" alt="Squid Animation" width="300">
+</p>
+
+<p align="center">
+  Donate fish here:<br>
+  <kbd><b>2k53UeAze2ySPB1abxsVXsHRoWRJcavs6SsCFgyG2g7j</b></kbd>
 </p>
 
 <p align="center">
